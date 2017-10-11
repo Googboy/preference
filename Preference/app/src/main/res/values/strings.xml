@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Preference</string>
+    <string-array name="music_list">
+        <item>花蝴蝶</item>
+        <item>青花瓷</item>
+        <item>北京北京</item>
+    </string-array>
+    <string-array name="values_list">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="list_quiet">
+        <item>立即启用</item>
+        <item>定时启用</item>
+        <item>暂不设置</item>
+    </string-array>
+    <string-array name="quiet_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="list_update">
+        <item>立即更新</item>
+        <item>夜间自动更新</item>
+        <item>暂不更新</item>
+    </string-array>
+    <string-array name="update_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
